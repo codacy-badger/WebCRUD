@@ -19,7 +19,7 @@
     <guava.version>27.0-jre</guava.version>
     <mysql-connector.version>8.0.13</mysql-connector.version>
     <servlet.version>3.1.0</servlet.version>
-    <jackson.version>2.9.4</jackson.version>
+    <jackson.version>2.9.7</jackson.version>
   </properties>
 
 
