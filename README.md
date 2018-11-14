@@ -1,11 +1,9 @@
 # WebCRUD
 An application using Spring MVC and Hibernate to provide the CRUD Operations on a MySQL table.
   
-## Compiling 
-Create a .war-File using maven (mvn clean install)
-  
-## Usage
-Start the .war-Container on a Java-EE Server.
+## Compile and setup
+Create a .war-File using maven (mvn clean install)  
+Start the .war-Container on a Java-EE Server.  
   
 ## MySQL  
 Create the table using the following command:
